@@ -1,2 +1,2 @@
 # Kizilay
-2D Space Shooter Game Created Using Allegro 5 Library
+2D space shooter game created using allegro 5 library
