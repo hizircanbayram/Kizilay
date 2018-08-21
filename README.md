@@ -18,5 +18,5 @@
     * Dynamic enemy with follow: Moves through controllable aircraft, fires standard bullet.
     
 
-![kizilay](https://user-images.githubusercontent.com/23126077/44427350-00193a00-a59a-11e8-9a95-7e1d21076fcb.gif)
+
 ![kizilay_1](https://user-images.githubusercontent.com/23126077/44427018-01963280-a599-11e8-97bb-b714963bae1b.gif)
